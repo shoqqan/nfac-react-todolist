@@ -1,0 +1,11 @@
+.todolist{
+    width: 10rem;
+    height: fit-content;
+    background-color: cornsilk;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    padding: 1rem;
+    border-radius: 14px;
+}
+

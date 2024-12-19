@@ -1,0 +1,19 @@
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.app{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  padding: 2rem;
+}
+
+
+.todolist_container{
+  display: flex;
+  column-gap: 2rem;
+}
